@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background: pink;
+  color: brown;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  font-size: 2em;
+}
+h4 {
+  color: blue;
+  font-size: 20px;
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  color: green;
+  font-family: monospace;
+  font-size: 20px;
+}
